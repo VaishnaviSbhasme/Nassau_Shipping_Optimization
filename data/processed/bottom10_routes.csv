@@ -1,0 +1,11 @@
+Factory → State,Total_Shipments,Average_Lead_Time,Lead_Time_STD,Average_Efficiency
+Sugar Shack → New Jersey,1,1642.0,0.0,0.0
+Secret Factory → New Hampshire,1,1641.0,0.0,0.06
+Sugar Shack → Connecticut,1,1641.0,0.0,0.06
+Wicked Choccy's → West Virginia,2,1639.0,0.0,0.18
+Lot's O' Nuts → North Dakota,5,1638.2,1.6431676725154905,0.22799999999999998
+Sugar Shack → California,1,1638.0,0.0,0.24
+The Other Factory → Nevada,1,1638.0,0.0,0.24
+Sugar Shack → Washington,1,1638.0,0.0,0.24
+Secret Factory → Connecticut,1,1638.0,0.0,0.24
+Sugar Shack → Ohio,2,1637.5,3.5355339059327378,0.275
